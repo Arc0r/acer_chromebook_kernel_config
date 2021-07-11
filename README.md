@@ -1,0 +1,1 @@
+# acer_chromebook_kernel_config
